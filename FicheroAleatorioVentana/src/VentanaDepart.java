@@ -123,7 +123,6 @@ public void actionPerformed(ActionEvent e)
 		   
 	if (e.getSource() == consu) { //SE PULSA EL BOTON  consultar  	
 		consuldepart(NOEXISTEDEPART); 
-	      
 	    }
 		  
 	if (e.getSource() == borra) { //SE PULSA EL BOTON  borrar  	
